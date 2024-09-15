@@ -1,7 +1,7 @@
 Hi 👋 My name is Albert Paris
 =============================
 
-Senior Software Engineer
+Software Engineer
 ------------------------
 
 * 🌍  I'm based in Barcelona
