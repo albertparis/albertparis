@@ -1,17 +1,18 @@
 Hi 👋 My name is Albert Paris
 =============================
 
-Software Engineer
-------------------------
+I'm a **Software Engineer** with over 15 years of experience in backend development and leadership roles, specializing in building robust, scalable systems. My expertise spans a variety of technologies, including **Ruby on Rails**, **Java (Spring Boot)**, **AWS**, and **Kubernetes**. I’m passionate about solving complex problems, fostering team growth, and delivering high-quality, maintainable code.
 
-* 🌍  I'm based in Barcelona
+### 🌟 What I Do:
+- Lead product teams in **Fintech** and **Retail** businesses.
+- Build microservices and cloud-native solutions using **Docker** and **Kubernetes**.
+- Manage DevOps pipelines to ensure **CI/CD** and **automation**.
+- Mentor teams, ensuring technical excellence and efficient project delivery.
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+### 💻 Skills:
+- **Languages**: Ruby on Rails, Java (Spring Boot), PHP (Symfony), SQL/NoSQL.
+- **Tools**: AWS, Terraform, Docker, K8S, Postgres, Redis.
+- **Methods**: TDD, DDD, Scrum, Kanban.
 
 
 ### Socials
